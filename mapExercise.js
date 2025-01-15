@@ -1,4 +1,3 @@
-javascript
 const catalogue = new Map();
 
 function addBook(bookId, title, author) {
